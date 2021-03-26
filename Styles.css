@@ -1,0 +1,44 @@
+body
+{
+    background-color: rgb(0, 51, 30);
+    color:rgb(183, 206, 120)
+}
+.title
+{
+    text-align: center;
+    border-image: initial; 
+    border: 15px solid rgb(37, 11, 11, 0.966);
+    background-color: rgba(68, 47, 2);
+    color: rgb(255, 255, 255);
+}
+.Billar 
+{
+    display: table;
+    table-layout: fixed; 
+    border-spacing: 15px; 
+}
+
+.div_img
+{
+    display: table-cell;
+    background-color: #000000;
+    overflow: hidden;
+}
+
+img
+{
+    width: 100%;
+}
+
+.text
+{
+    float: left;
+    margin: 0px;
+}
+
+h1
+{
+    text-align: center;
+    margin: 0;
+    padding: 8px;
+}
