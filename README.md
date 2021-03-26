@@ -1,6 +1,6 @@
 # Proyecto Primer Parcial
 ## Controlador mesas de billar
-### Daniel Alberto Cota Ochoa 329701
+
 
 Este proyecto consiste en elaborar un controlador para mesas de billar con las especificaciones dadas por el profesor.
 
